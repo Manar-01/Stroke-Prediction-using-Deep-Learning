@@ -17,7 +17,11 @@ Usage:
 Usage:
 
 1- Clone the repository: git clone https://github.com/manar-01/stroke-prediction.git
+
 2- Navigate to the project directory: cd stroke-prediction
+
 3- Follow the instructions in the README.md file to set up the environment, preprocess data, train models, and evaluate performance.
-4- Contributing:
+
+Contributing:
+
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
